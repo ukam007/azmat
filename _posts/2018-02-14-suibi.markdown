@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "夕阳"
+categories: Self
+tags: suibi
+author: AZMAT
+description: The read me page of azmat.
+---
+
+观日落有感
+====
+Location：东莞
+但见夕阳去，不见故人归。
