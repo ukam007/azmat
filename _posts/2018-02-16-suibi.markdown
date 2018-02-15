@@ -10,3 +10,5 @@ description: The read me page of azmat.
 语录
 ====
 时间在哪里，成绩就在哪里。
+
+空杯心态
