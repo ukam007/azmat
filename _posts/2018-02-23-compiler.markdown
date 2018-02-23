@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Compiler"
+categories: Computer Science
+tags: Compiler
+author: AZMAT
+description: The read me page of azmat.
+---
+<table>
+  <tr>
+    <td>Compiler</td><td>Office Site</td>
+  </tr>
+  <tr>
+    <td>gcc</td><td>https://gcc.gnu.org/</td>
+  </tr>
+</table>
