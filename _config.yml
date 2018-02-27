@@ -1,8 +1,9 @@
 # Jekyll configuration
 
 name: AZMAT
-description: elegant life
-#Welcome to AZMAT！
+description: 2009duanbing@163.com
+# description: elegant life
+# Welcome to AZMAT！
 
 # url is currently only used only for the RSS feed in feed.xml
 url: https://github.com/ukam007/azmat
@@ -13,13 +14,13 @@ url: https://github.com/ukam007/azmat
 #     run it like so: jekyll serve --baseurl=''
 baseurl: '/azmat'
 ## default date_format
-date_format: 
+date_format:
   title: "%B-%-d-%Y"
   archive: "%b"
   categories: "%b-%Y"
   tag: "%b-%Y"
 # Language
-lan: "en" 
+lan: "en"
 
 paginate: 10
 
