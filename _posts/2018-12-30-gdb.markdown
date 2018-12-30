@@ -1,0 +1,9 @@
+---
+layout: post
+title:  GDB
+categories: CS
+tags: suibi
+author: AZMAT
+description: The read me page of azmat.
+---
+gdb is 

@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Compiler"
-categories: ComputerScience
+categories: CS
 tags: Compiler
 author: AZMAT
-description: The read me page of azmat.
+description: an introduction of compiler.
 ---
 | Compiler | Office Site |
 |----------|-------------|
