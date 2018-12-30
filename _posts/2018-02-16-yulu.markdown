@@ -4,7 +4,7 @@ title:  "语录"
 categories: Self
 tags: suibi
 author: AZMAT
-description: The read me page of azmat.
+description: 2018-02-16
 ---
 
 语录
