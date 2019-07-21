@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "一级建造师"
+categories: Study
+tags: Constructor
+author: dbb
+description: 2019-07-21
+---
+
+## 一级建造师
+
+考试时间: 2019-9-21
+
+考试科目:
+
+* 建设工程经济
+* 建设工程法规及相关知识
+* 建设工程项目管理
+* 专业工程管理与实务(通信与广电工程)
